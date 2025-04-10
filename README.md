@@ -7,7 +7,7 @@
     <script>
         // هنا هتحدد التوجيه بعد 3 ثواني
         setTimeout(function(){
-            window.location.href = "https://wa.me/11234567890"; // هنا حط لينك الواتساب
+            window.location.href = "https://wa.me/‏‪+20 10 02474747‬‏"; // هنا حط لينك الواتساب
         }, 3000); // 3000 مللي ثانية = 3 ثواني
     </script>
 </head>
